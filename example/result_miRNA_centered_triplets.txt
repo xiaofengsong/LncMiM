@@ -1,0 +1,6 @@
+   modulator effector target low_correlation high_correlation low_index
+2 miR-224-5p MIR100HG IGFBP5       0.2428422        0.5444713        70
+3  let-7e-5p    ZFAS1  RPL24       0.3854134        0.7295669        34
+  high_index     fisrt      last p-value  fdr
+2        283 0.3290756 0.5444713    0.01 0.01
+3        209 0.4520825 0.6455297    0.00 0.00

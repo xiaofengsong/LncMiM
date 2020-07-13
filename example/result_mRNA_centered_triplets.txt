@@ -1,0 +1,6 @@
+  modulator    effector   target      R_low     R_HIGH low_index high_index
+2      RPS6 miR-151a-3p   SNHG29 -0.4518224  0.0108153       129         35
+3    IGFBP5  miR-224-5p MIR100HG -0.5272333 -0.1045768       142          3
+       fisrt       last P_value fdr
+2 -0.2072969 -0.1524185       0   0
+3 -0.1545714 -0.2478561       0   0
