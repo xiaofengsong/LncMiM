@@ -46,7 +46,7 @@ Maintainer: Jian Zhao (zhaojian@nuaa.edu.cn)
 	Rscript LncMiM.r example/miRNA_expr.txt example/lncRNA_expr.txt example/pc_expr.txt example/candidate_mRNA_centered_triplets.txt result_mRNA_centered_triplets.txt mRNA
 
 # Reference
-[Jian Zhao, Xiaofeng Song*, Tianyi Xu, Bin Jiang, Jing Wu*. Identification of potential prognostic competing triplets in high-grade serous ovarian cancer. Submitted](https://www.frontiersin.org/articles/10.3389/fgene.2020.607722/)
+[Jian Zhao, Xiaofeng Song*, Tianyi Xu, Bin Jiang, Jing Wu*. Identification of potential prognostic competing triplets in high-grade serous ovarian cancer. Frontiers in genetics. (accpeted)](https://www.frontiersin.org/articles/10.3389/fgene.2020.607722/)
 # Contact
 	Please contact Jian Zhao (zhaojian@nuaa.edu.cn) for questions and comments.
 
